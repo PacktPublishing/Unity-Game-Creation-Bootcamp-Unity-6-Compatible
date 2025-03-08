@@ -4,3 +4,11 @@
 .wav filter=lfs diff=lfs merge=lfs -text
 .ttf filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+FPControllerCompassCheckpoints.zip filter=lfs diff=lfs merge=lfs -text
+MultipleShotZombies.zip filter=lfs diff=lfs merge=lfs -text
+Splash.zip filter=lfs diff=lfs merge=lfs -text
+BlueCubesProperties.zip filter=lfs diff=lfs merge=lfs -text
+CharacterTextures.zip filter=lfs diff=lfs merge=lfs -text
+BlueCubesEvents.zip filter=lfs diff=lfs merge=lfs -text
+Duck.zip filter=lfs diff=lfs merge=lfs -text
+Granny.zip filter=lfs diff=lfs merge=lfs -text
